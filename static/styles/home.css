@@ -5,7 +5,7 @@ body{
 }
 
 /* -----------------------header----------------------- */
-.header {
+/* .header {
   grid-area: header;
   overflow: hidden;
   background-color: #d76b49;
@@ -40,7 +40,7 @@ body{
 
 .header-right {
   float: right;
-}
+} */
 
 /* #header-image-menu{
     top: 10px;
@@ -61,7 +61,7 @@ body{
     color: #000;
     text-align: center;
 }
-.button{
+/* .button{
 border-style: solid;
 border-width: 1vw;
 border-radius: 5%;
@@ -77,7 +77,7 @@ margin-left: 3vw;
 margin-top: 5vh;
 text-align: center;
 font-family: 'Nerko One', cursive;
-}
+} */
 /*-----hover view all-----*/
 /* .button:hover{
 background-color:#191D4B ;
