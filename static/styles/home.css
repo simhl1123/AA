@@ -1,8 +1,8 @@
-body{
+/* body{
   margin: 0;
   background-color: #FBF9F9 ;
   font-family: 'Sansita Swashed', cursive;
-}
+} */
 
 /* -----------------------header----------------------- */
 /* .header {
@@ -47,7 +47,7 @@ body{
     position: relative;
 } */
  
-#header-image-menu img{
+/* #header-image-menu img{
     width: 100%;
     margin: none;
     padding: none;
@@ -60,7 +60,7 @@ body{
     font-family: 'Roboto';
     color: #000;
     text-align: center;
-}
+} */
 /* .button{
 border-style: solid;
 border-width: 1vw;
@@ -84,8 +84,8 @@ background-color:#191D4B ;
 color: white;
 } */
 
-.button{
+/* .button{
   background-color:#191D4B ;
   color: white;
   }
-  
+   */
