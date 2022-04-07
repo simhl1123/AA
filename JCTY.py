@@ -9,7 +9,7 @@ app = Flask(__name__,template_folder='templates')
 
 bucket = custombucket
 region = customregion
-cloud_domain = cloudfront
+
 
 db_conn = connections.Connection(
     host=customhost,
@@ -67,7 +67,7 @@ def AddEmp():
         engineering_count = cursor.execute("SELECT *  FROM employee WHERE job_role = 'Software Engineering'")
         hr_count = cursor.execute("SELECT * FROM employee WHERE job_role = 'Human Resource'")
         #image_url = "https://"+bucket+".s3.amazonaws.com/"+emp_image_file_name_in_s3
-        image_url = "https://"+cloud_domain+"/"+emp_image_file_name_in_s3
+
 
 
         try:
