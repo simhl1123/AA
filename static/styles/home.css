@@ -79,7 +79,13 @@ text-align: center;
 font-family: 'Nerko One', cursive;
 }
 /*-----hover view all-----*/
-.button:hover{
+/* .button:hover{
 background-color:#191D4B ;
 color: white;
-}
+} */
+
+.button:hover{
+  background-color:#191D4B ;
+  color: white;
+  }
+  
