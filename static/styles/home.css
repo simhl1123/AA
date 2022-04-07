@@ -54,7 +54,7 @@ body{
 }
  
 #image-text{
-    position: absolute;
+    /* position: absolute; */
     top: 22%;
     left: 36%;
     font-family: 'Roboto';
